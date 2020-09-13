@@ -14,6 +14,7 @@ tweets ssentiment analysis
 
 
 Ссылки на код в google colaboratory: 
-	https://colab.research.google.com/drive/10EDPBjGCWvzHFq_q8FFVTPaI8Bng3xdX?usp=sharing
 
-	https://colab.research.google.com/drive/1W5QfS1XoQDD7tvssNJjCDn4ZqmQ9O467?usp=sharing
+https://colab.research.google.com/drive/10EDPBjGCWvzHFq_q8FFVTPaI8Bng3xdX?usp=sharing
+
+https://colab.research.google.com/drive/1W5QfS1XoQDD7tvssNJjCDn4ZqmQ9O467?usp=sharing
